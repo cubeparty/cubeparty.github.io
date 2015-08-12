@@ -6,5 +6,5 @@ Join @ [cubeparty.github.io](http://cubeparty.github.io/) !
  __)( ( () ) )(  )  (     )(   )__(  ) _)   ) _/ /__\  )  \   )(   \  / \_/
 (___/  \__/ (__)(_)\_)   (__) (_)(_)(___)  (_)  (_)(_)(_)\_) (__) (__/  (_)
 
-git pull git@github.com:cubeparty/cubeparty.github.io.git
+git clone git@github.com:cubeparty/cubeparty.github.io.git
 ```
