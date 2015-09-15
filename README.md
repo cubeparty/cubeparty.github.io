@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/cubeparty/cubeparty.github.io.png?label=ready&title=Ready)](https://waffle.io/cubeparty/cubeparty.github.io)
 # Liaison Cube Party 2015
 Join @ [cubeparty.github.io](http://cubeparty.github.io/) !
 ```
