@@ -1,0 +1,73 @@
+Cube Party v0.1-SNAPSHOT
+========================
+
+Schedule
+--------
+
+Friday 6.11.2015
+
+[16:00] Start partying
+[19:00] Order pizza
+[21:45] Submit entry deadline
+[22:00] Graphics
+[22:30] Music
+[23:00] Demo
+[00:00] Party over / Afterparty
+
+
+Rules, or more like what you call a guideline
+=============================================
+
+1. Party
+--------
+
+1.1. Entries must be previously unpublished.
+1.2. These rules may and will still change, and are more of an guideline than actual rule.
+1.3. Please drink responsibly.
+1.4. Never change songs in the middle, add it to the back of the playlist.
+1.5. Make sure your entry works on the party hardware, or provide your own.
+1.6. If the entry is made as a team, at least half of team members must be liaison employees.
+1.7. List techniques user while making entry, for example "C++, OpenGL, Blender3D" or "Watercolor on concrete".
+
+
+
+2. Demo
+-------
+
+2.1. May contain 3rd party music, but please use work under creative commons, and credit the original author in credits or a readme file.
+2.2. Note that demo with original music may be rated higher, actual voting rules published a bit later.
+2.3. Entries can be submitted as:
+2.3.1. Link to a webpage for browser demo.
+2.3.2. Zip file with executable.
+2.3.3. Video file.
+2.3.4. Link to video online, with captured demo.
+2.4. Any multimedia will do.
+2.5. Don't make it longer than 15 minutes.
+
+
+3. Graphics
+-----------
+
+3.1. Entry must be a still image.
+3.2. Submit entry as:
+3.2.1. Image file.
+3.2.2. Link to webpage with image.
+3.3. Any size will do, but note the specs of the main screen (TBD).
+
+
+4. Music
+--------
+
+4.1. Submit entry as:
+4.1.1. An audio file, please convert mod/mid/sid/s3m into format playable with regular audio player software.
+4.1.2. Link to web page with the audio (youtube, soundcloud etc.)
+4.2. Don't make it longer than 10 minutes.
+
+
+5. Food and drinks
+------------------
+
+5.1. Pizza will be ordered at some point. One family sized pizza per 2 persons.
+5.2. The usual Liaison provided soda for drinks.
+5.3. Provide own ethanol. Or stay sober, that's fun too.
+
