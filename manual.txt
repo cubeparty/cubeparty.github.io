@@ -6,13 +6,12 @@ Schedule
 
 Friday 6.11.2015
 
-[16:00] Start partying
-[19:00] Order pizza
-[21:00] Submit entry deadline
-[21:30] Graphics
-[22:00] Music
-[22:30] Demo
-[00:00] Price ceremony / Party over / Afterparty
+[17:00] Start partying
+[18:00] Order pizza
+[21:25] Submit entry deadline
+[21:30] Graphics -> Music -> Demo (with short breaks between)
+[+30min] Voting ends
+[+30min] Prices
 
 
 Rules, or more like what you call a guideline
